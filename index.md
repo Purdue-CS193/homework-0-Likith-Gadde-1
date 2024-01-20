@@ -1,8 +1,8 @@
 ## Likith's First CS 193 Homework
 - There is only 1 class needed to attend a week
 - it's short
-- -it's in a good time
-- 
+- it's in a good time
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
